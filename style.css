@@ -121,7 +121,7 @@ border-radius: 5px 5px 0 0;
     padding: 35px 25px 35px 40px;;
     display: grid;
     background-color:  hsla(179, 62%, 43%, 0.758);
-    border-radius: 0 0 5px 5px;
+    border-radius: 0 0 5px 0px;
   
    
 }
